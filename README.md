@@ -29,3 +29,6 @@ Using a transformer-based AI model, it finds the **top 3 companies** that best m
 
 Developed by SRINIDHI J
 As part of the Caprae Capital AI Readiness Challenge, July 2025.
+
+#demo video link:
+https://drive.google.com/file/d/1KTDmP4XQZnOY104Cz_Vd1VxnSfPMIRHs/view?usp=drivesdk
