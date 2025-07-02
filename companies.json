@@ -1,0 +1,92 @@
+[
+  {
+    "name": "HealthSync AI",
+    "description": "An AI-powered SaaS platform that helps hospitals manage patient records and automate scheduling.",
+    "website": "https://healthsyncai.com",
+    "industry": "Healthcare SaaS"
+  },
+  {
+    "name": "MarketHive",
+    "description": "A digital marketing agency specializing in SEO, content strategy, and brand storytelling for startups.",
+    "website": "https://markethive.io",
+    "industry": "Marketing"
+  },
+  {
+    "name": "FinTechPro",
+    "description": "We offer cloud-based accounting and financial reporting software for small businesses and freelancers.",
+    "website": "https://fintechpro.co",
+    "industry": "Fintech"
+  },
+  {
+    "name": "LogiChain",
+    "description": "Blockchain-powered supply chain platform to improve transparency and tracking for manufacturers.",
+    "website": "https://logichain.org",
+    "industry": "Logistics / Blockchain"
+  },
+  {
+    "name": "EduFlow",
+    "description": "An edtech platform that provides AI-powered adaptive learning paths for high school students.",
+    "website": "https://eduflow.app",
+    "industry": "EdTech"
+  },
+  {
+    "name": "RetailBoost",
+    "description": "We help retail stores improve their sales using predictive analytics and customer behavior insights.",
+    "website": "https://retailboost.ai",
+    "industry": "Retail AI"
+  },
+  {
+    "name": "GreenGrid Solar",
+    "description": "A clean energy startup that provides solar panel design and installation services for homes and offices.",
+    "website": "https://greengridsolar.com",
+    "industry": "Clean Energy"
+  },
+  {
+    "name": "AutoInsight",
+    "description": "A car dealership analytics tool that tracks sales trends and optimizes pricing strategies.",
+    "website": "https://autoinsight.tech",
+    "industry": "Automotive Analytics"
+  },
+  {
+    "name": "LawBotics",
+    "description": "We build AI-powered legal assistants to automate contract reviews and legal research.",
+    "website": "https://lawbotics.ai",
+    "industry": "LegalTech"
+  },
+  {
+    "name": "FarmAssist",
+    "description": "AI software that helps farmers monitor crops and predict yields using satellite and IoT data.",
+    "website": "https://farmassist.io",
+    "industry": "AgriTech"
+  },
+  {
+    "name": "MedCompare",
+    "description": "A platform that lets users compare health insurance plans and find affordable coverage options.",
+    "website": "https://medcompare.health",
+    "industry": "Health Insurance"
+  },
+  {
+    "name": "RecruitIQ",
+    "description": "Recruitment automation software using AI to filter job candidates and schedule interviews.",
+    "website": "https://recruitiq.ai",
+    "industry": "HR Tech"
+  },
+  {
+    "name": "ArtifyMe",
+    "description": "A generative art platform that allows users to create and sell digital artwork using AI tools.",
+    "website": "https://artifyme.com",
+    "industry": "Creative AI"
+  },
+  {
+    "name": "BuildCraft",
+    "description": "Project management software tailored for architecture and construction firms.",
+    "website": "https://buildcraft.app",
+    "industry": "Construction SaaS"
+  },
+  {
+    "name": "CodeMentorX",
+    "description": "We connect aspiring developers with experienced mentors via on-demand coding sessions.",
+    "website": "https://codementorx.dev",
+    "industry": "Developer Education"
+  }
+]
