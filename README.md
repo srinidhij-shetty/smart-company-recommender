@@ -27,4 +27,5 @@ Using a transformer-based AI model, it finds the **top 3 companies** that best m
 - Sentence-Transformers
 - PyTorch
 
-
+Developed by SRINIDHI J
+As part of the Caprae Capital AI Readiness Challenge, July 2025.
